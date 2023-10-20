@@ -1,7 +1,7 @@
 ### Olá! Meu nome é João Lucas  👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaolucas.alves010/)
 
-
+![Dev | João Lucas GitHub stats](https://github-readme-stats.vercel.app/apiusername=joaolucasalves010&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso e estou aprendendo
 <div style="display: inline-block"><br/>
