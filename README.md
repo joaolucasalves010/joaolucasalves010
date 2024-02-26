@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaolucasalves010&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={joaolucasalves010}&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasalves010&theme=blue-green)
 
 ## Skills
 <div style="display: inline-block"><br/>
