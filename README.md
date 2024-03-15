@@ -14,7 +14,7 @@
 </div>
 
 ## Próximos passos 📚 
-![Tech](https://skills.thijs.gg/icons?i=typescript,reactjs,java,gcp&perline=10)
+![Tech](https://skills.thijs.gg/icons?i=typescript,react,java)
 
 
 ## Studies 📚
