@@ -13,6 +13,10 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
 </div>
 
+## Próximos passos 📚 
+![Tech](https://skills.thijs.gg/icons?i=typescript,reactjs,java,gcp&perline=10)
+
+
 ## Studies 📚
 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/)
