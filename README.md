@@ -11,7 +11,7 @@ Desenvolvedor full-stack, focado em back-end
 ![Tech](https://skills.thijs.gg/icons?i=html,css,javascript,git,github)
 
 ## Futuros Aprendizados📚 
-![Tech](https://skills.thijs.gg/icons?i=typescript,react,python)
+![Tech](https://skills.thijs.gg/icons?i=typescript,react,python,java)
 
 ##
 
