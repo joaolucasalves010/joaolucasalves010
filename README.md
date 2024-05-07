@@ -8,7 +8,7 @@ Desenvolvedor full-stack, focado em back-end
 [![Instagram](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/joaolucasalves010/)
 
 ## Skills 🚀
-![Tech](https://skills.thijs.gg/icons?i=html,css,javascript,git,github)
+![Tech](<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" height="50" >)
 
 ## Futuros Aprendizados📚 
 ![Tech](https://skills.thijs.gg/icons?i=typescript,react,java)
