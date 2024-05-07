@@ -5,7 +5,7 @@ Desenvolvedor full-stack, focado em back-end
 
 ## Social
 [![LinkedIn](https://skills.thijs.gg/icons?i=linkedin)](https://www.linkedin.com/in/jo%C3%A3o-lucas-lima-alves-4b8004298/) 
-[![Instagram](https://skills.thijs.gg/icons?i=instagram)](https://www.instagram.com/joaolucasalves010/)
+<img src="https://skillicons.dev/icons?i=instagram" height="50" >(https://www.instagram.com/joaolucasalves010/)
 
 ## Skills 🚀
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" height="50" >
