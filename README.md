@@ -10,7 +10,7 @@ Desenvolvedor full-stack, focado em back-end
 <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" height="50" >
 
 ## Futuros Aprendizados📚 
-<img src="https://skillicons.dev/icons?i=ts,java,python" height="50" >
+<img src="https://skillicons.dev/icons?i=java,python" height="50" >
 
 ##
 
