@@ -7,7 +7,7 @@ Desenvolvedor full-stack, focado em back-end
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/joaolucasalves010/) 
 
 ## Skills 🚀
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" height="50" >
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="50" >
 
 ## Futuros Aprendizados📚 
 <img src="https://skillicons.dev/icons?i=java,python" height="50" >
