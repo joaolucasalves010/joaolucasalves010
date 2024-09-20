@@ -10,7 +10,10 @@ Desenvolvedor back-end
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github" height="50" >
 
 ## Futuros Aprendizados📚 
-<img src="https://skillicons.dev/icons?i=python,rust" height="50" >
+<img src="https://skillicons.dev/icons?i=rust" height="50" >
+
+## Learning📚
+<img src="https://skillicons.dev/icons?i=python" height="50" >
 
 ##
 
