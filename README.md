@@ -9,9 +9,6 @@ Desenvolvedor back-end
 ## Skills 🚀
 <img src="https://skillicons.dev/icons?i=html,css,git,github,python,django,js" height="50" >
 
-## Futuros Aprendizados📚 
-<img src="https://skillicons.dev/icons?i=rust" height="50" >
-
 ## Learning📚
 <img src="https://skillicons.dev/icons?i=python" height="50" >
 
