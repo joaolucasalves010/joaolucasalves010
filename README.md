@@ -7,7 +7,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/joaolucasalves010/) 
 
 ## Skills 🚀
-<img src="https://skillicons.dev/icons?i=html,css,git,github,python,django,js" height="50" >
+<img src="https://skillicons.dev/icons?i=html,css,git,github,python,js" height="50" >
 
 
 ##
