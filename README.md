@@ -9,8 +9,4 @@
 ## Skills 🚀
 <img src="https://skillicons.dev/icons?i=html,css,git,github,python,js" height="50" >
 
-
-##
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=footer"/>
