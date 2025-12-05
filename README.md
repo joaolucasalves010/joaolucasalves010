@@ -1,15 +1,26 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=869ec1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+João+Lucas;I'm+17+years+old;Python+Back-End+Developer;+Welcome!+:%29)](https://git.io/typing-svg)
+<h1>💫 About Me</h1>
+
+<h3>
+- 🔭 Full-stack developer<br/>
+- 📕Learning Cyber Security<br/>
+- 🎂 17 Years Old<br/>
+- ❤️ Passionate about technology<br/>
+</h3>
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
 
 
-## Social 🌐
-📸 **Instagram:** [@joaolucasalves010](https://instagram.com/joaolucasalves010)
+<h1> My Skill Sets <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
-## Skills 🚀
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+---
+
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/python.svg" /></a>
+
+<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
+
+<img src="https://skillicons.dev/icons?i=html,css" height="50" >
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=219ebc&height=100&section=footer"/>
