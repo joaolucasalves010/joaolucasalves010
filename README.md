@@ -4,7 +4,7 @@
 
 
 ## Social 🌐
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/joaolucasalves010/) 
+📸 **Instagram:** [@joaolucasalves010](https://instagram.com/joaolucasalves010)
 
 ## Skills 🚀
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
