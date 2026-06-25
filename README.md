@@ -4,8 +4,7 @@
 
 <h3>
 - 🔭 Full-stack developer<br/>
-- 📕Learning Cyber Security<br/>
-- 🎂 17 Years Old<br/>
+- 🎂 18 Years Old<br/>
 - ❤️ Passionate about technology<br/>
 </h3>
 <a href="#--about-me--"><img src="https://raw.githubusercontent.com/dev-star712/dev-star712/auxiliary/others/colorful_line.gif"></a>
